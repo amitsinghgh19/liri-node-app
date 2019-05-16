@@ -87,47 +87,117 @@ function getBandsInTown(artist) {
             var bandQueryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
 
             axios.get(bandQueryURL).then(
-                function (response, error) {
-                     // adding a line break for clarity of when search results begin
-                    console.log("=======================================================================================================");
-                    fs.appendFileSync("log.txt", "=======================================================================================================\n");
-                    console.log("response is");
-                    console.log(response);
+            function (response, error) {
+            // adding a line break for clarity of when search results begin
+            console.log("=======================================================================================================");
+            fs.appendFileSync("log.txt", "=======================================================================================================\n");
+            console.log("response is");
+            console.log(response);
 
-                    if(!error && response.status === 200){
-                        console.log("response status is "+response.status);
-                        var concerts = response.data;
-                        for (var i = 0; i < concerts.length; i++) {  
-                        console.log(i);
+            if(!error && response.status === 200){
+                console.log("response status is "+response.status);
+                var concerts = response.data;
+                for (var i = 0; i < concerts.length; i++) {  
+                console.log(i);
+    
+                console.log("**********BANDS IN TOWN EVENT INFO BEGIN*********");
+                fs.appendFileSync("log.txt", i +"\n");
+                fs.appendFileSync("log.txt", "**********BANDS IN TOWN EVENT INFO BEGIN*********\n");
+                
+                console.log("Name of the venue: " + response.data[i].venue.name);
+                fs.appendFileSync("log.txt", "Name of the venue: " + response.data[i].venue.name +"\n");
+
+                console.log("Venue Location: " + response.data[i].venue.city);
+                fs.appendFileSync("log.txt", "Venue Location: " + response.data[i].venue.city +"\n");
+
+                console.log("Date of the Event: " + moment(response.data[i].datetime).format("MM-DD-YYYY"));
+                fs.appendFileSync("log.txt", "Date of the Event: " + moment(response.data[i].datetime).format("MM-DD-YYYY") +"\n");
+
+                console.log("Event URL: " + response.data[i].url);
+                fs.appendFileSync("log.txt", "Event URL: " + response.data[i].url +"\n");
             
-                        console.log("**********BANDS IN TOWN EVENT INFO BEGIN*********");
-                        fs.appendFileSync("log.txt", i +"\n");
-                        fs.appendFileSync("log.txt", "**********BANDS IN TOWN EVENT INFO BEGIN*********\n");
-                        
-                        console.log("Name of the venue: " + response.data[i].venue.name);
-                        fs.appendFileSync("log.txt", "Name of the venue: " + response.data[i].venue.name +"\n");
+                console.log("**********BANDS IN TOWN EVENT INFO END*********");  
+                fs.appendFileSync("log.txt", "**********BANDS IN TOWN EVENT INFO END*********\n");
 
-                        console.log("Venue Location: " + response.data[i].venue.city);
-                        fs.appendFileSync("log.txt", "Venue Location: " + response.data[i].venue.city +"\n");
+            }
+            }
+            else{
+                console.log('Error occurred.');
+                console.log("response status is "+response.status);
+            }
+                
+            });
+        };
 
-                        console.log("Date of the Event: " + moment(response.data[i].datetime).format("MM-DD-YYYY"));
-                        fs.appendFileSync("log.txt", "Date of the Event: " + moment(response.data[i].datetime).format("MM-DD-YYYY") +"\n");
+//Function to search Movie Info using OMDB API
+function getOMDB(movie) {
+            //console.log("Movie: " + movie);
+            //If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+            if (!movie) {
+                movie = "Mr. Nobody";
+                console.log("=======================================================================================================");
+                fs.appendFileSync("log.txt", "=======================================================================================================\n");
+                console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
+                fs.appendFileSync("log.txt", "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" +"\n");
+                console.log("It's on Netflix!");
+                fs.appendFileSync("log.txt", "It's on Netflix!\n");
+            }
+            var movieQueryUrl = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
+            console.log("movie query url is- " +movieQueryUrl);
 
-                        console.log("Event URL: " + response.data[i].url);
-                        fs.appendFileSync("log.txt", "Event URL: " + response.data[i].url +"\n");
+            axios.request(movieQueryUrl).then(
+                function (response, error) {
+                // adding a line break for clarity of when search results begin
+                console.log("=======================================================================================================");
+                fs.appendFileSync("log.txt", "=======================================================================================================\n");
+                console.log("response is");
+                console.log(response);
+                if(!error && response.status === 200){
+                    console.log("response status is "+response.status);
+
+                    console.log("**********OMDB MOVIE INFO BEGIN*********");
+                    fs.appendFileSync("log.txt", "**********OMDB MOVIE INFO BEGIN*********\n");
                     
-                        console.log("**********BANDS IN TOWN EVENT INFO END*********");  
-                        fs.appendFileSync("log.txt", "**********BANDS IN TOWN EVENT INFO END*********\n");
+                    console.log("Movie Title: " + response.data.Title);
+                    fs.appendFileSync("log.txt", "Movie Title: " + response.data.Title +"\n");
+    
+                    console.log("Release Year: " + response.data.Year);
+                    fs.appendFileSync("log.txt", "Release Year: " + response.data.Year +"\n");
 
-                    }
-                    }
-                    else{
-                        console.log('Error occurred.');
-                        console.log("response status is "+response.status);
-                    }
-                    
-                    
-                });
+                    console.log("IMDB Rating: " + response.data.imdbRating);
+                    fs.appendFileSync("log.txt", "IMDB Rating: " + response.data.imdbRating +"\n");
+
+                    console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
+                    fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value +"\n");
+    
+                    console.log("Country of Production: " + response.data.Country);
+                    fs.appendFileSync("log.txt", "Country of Production: " + response.data.Country +"\n");
+
+                    console.log("Language: " + response.data.Language);
+                    fs.appendFileSync("log.txt", "Language: " + response.data.Language +"\n");
+
+                    console.log("Plot: " + response.data.Plot);
+                    fs.appendFileSync("log.txt", "Plot: " + response.data.Plot +"\n");
+
+                    console.log("Actors: " + response.data.Actors);
+                    fs.appendFileSync("log.txt", "Actors: " + response.data.Actors +"\n");
+
+                    console.log("Awards: " + response.data.Awards);
+                    fs.appendFileSync("log.txt", "Awards: " + response.data.Awards +"\n");
+
+                    console.log("Poster URL: " + response.data.Poster);
+                    fs.appendFileSync("log.txt", "Poster URL: " + response.data.Poster +"\n");
+                   
+                    console.log("**********OMDB MOVIE INFO END*********");  
+                    fs.appendFileSync("log.txt", "**********OMDB MOVIE INFO END*********\n");
+
+                }
+            else{
+                console.log('Error occurred.');
+                console.log("response status is "+response.status);
+            }
+                
+            });
         };
 
 
