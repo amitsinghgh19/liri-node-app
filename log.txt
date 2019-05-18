@@ -1237,3 +1237,430 @@ preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45
 album: The Essential "Weird Al" Yankovic
 artist(s): "Weird Al" Yankovic
 **********SPOTIFY SONG INFO END*********
+=======================================================================================================
+0
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=8620905707b64734a7249fe736eb2e66
+album: Harry Styles
+artist(s): Harry Styles
+**********SPOTIFY SONG INFO END*********
+1
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=8620905707b64734a7249fe736eb2e66
+album: World War Joy...Do You Mean
+artist(s): The Chainsmokers
+**********SPOTIFY SONG INFO END*********
+2
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+**********SPOTIFY SONG INFO END*********
+3
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=8620905707b64734a7249fe736eb2e66
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+4
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+**********SPOTIFY SONG INFO END*********
+5
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8620905707b64734a7249fe736eb2e66
+album: Sign of the Times
+artist(s): Harry Styles
+**********SPOTIFY SONG INFO END*********
+6
+**********SPOTIFY SONG INFO BEGIN*********
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+**********SPOTIFY SONG INFO END*********
+7
+**********SPOTIFY SONG INFO BEGIN*********
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8620905707b64734a7249fe736eb2e66
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+**********SPOTIFY SONG INFO END*********
+8
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=8620905707b64734a7249fe736eb2e66
+album: The Divine Feminine
+artist(s): Mac Miller
+**********SPOTIFY SONG INFO END*********
+9
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+**********SPOTIFY SONG INFO END*********
+10
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+**********SPOTIFY SONG INFO END*********
+11
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=8620905707b64734a7249fe736eb2e66
+album: Beach House 3
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+12
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=8620905707b64734a7249fe736eb2e66
+album: Beach House 3
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+13
+**********SPOTIFY SONG INFO BEGIN*********
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+**********SPOTIFY SONG INFO END*********
+14
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=8620905707b64734a7249fe736eb2e66
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+**********SPOTIFY SONG INFO END*********
+15
+**********SPOTIFY SONG INFO BEGIN*********
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8620905707b64734a7249fe736eb2e66
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+**********SPOTIFY SONG INFO END*********
+16
+**********SPOTIFY SONG INFO BEGIN*********
+song name: When I Lie (Remix) (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/9dc089c14e85ea2a62c5ae7177f2582d7abb2c96?cid=8620905707b64734a7249fe736eb2e66
+album: For The Throne (Music Inspired by the HBO Series Game of Thrones)
+artist(s): Lil Peep
+**********SPOTIFY SONG INFO END*********
+17
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=8620905707b64734a7249fe736eb2e66
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+**********SPOTIFY SONG INFO END*********
+18
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=8620905707b64734a7249fe736eb2e66
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+**********SPOTIFY SONG INFO END*********
+19
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Bacc To Winning (feat. Ty Dolla $ign) [Produced by Cardo and DJ.Fresh]
+preview song: https://p.scdn.co/mp3-preview/e6d6f93bc37a2cb73027343884d87142c05b3d10?cid=8620905707b64734a7249fe736eb2e66
+album: Fly Times Vol. 1: The Good Fly Young
+artist(s): Wiz Khalifa
+**********SPOTIFY SONG INFO END*********
+=======================================================================================================
+=======================================================================================================
+0
+**********SPOTIFY SONG INFO BEGIN*********
+song name: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+preview song: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=8620905707b64734a7249fe736eb2e66
+album: TROLLS (Original Motion Picture Soundtrack)
+artist(s): Justin Timberlake
+**********SPOTIFY SONG INFO END*********
+1
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop The Feeling
+preview song: https://p.scdn.co/mp3-preview/6b34ce993a75e54d84c7baa7ac82a34ae5624ebd?cid=8620905707b64734a7249fe736eb2e66
+album: Soft Piano Tunes
+artist(s): Piano Pianissimo
+**********SPOTIFY SONG INFO END*********
+2
+**********SPOTIFY SONG INFO BEGIN*********
+song name: CAN'T STOP THE FEELING! - Film Version
+preview song: https://p.scdn.co/mp3-preview/490f935ceb017ce3ae29ddc90b9ca8154a555ebe?cid=8620905707b64734a7249fe736eb2e66
+album: TROLLS (Original Motion Picture Soundtrack)
+artist(s): Justin Timberlake
+**********SPOTIFY SONG INFO END*********
+3
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling
+preview song: https://p.scdn.co/mp3-preview/70fb44cb338412d4f8f06c2d4c91afe5dc9cf04d?cid=8620905707b64734a7249fe736eb2e66
+album: Uncharted
+artist(s): The Piano Guys
+**********SPOTIFY SONG INFO END*********
+4
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop The Feeling!
+preview song: null
+album: KIDZ BOP 33
+artist(s): Kidz Bop Kids
+**********SPOTIFY SONG INFO END*********
+5
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling / This Is What You Came For
+preview song: https://p.scdn.co/mp3-preview/e6493c153911e7605f1fe241be9d7f1c96208ebf?cid=8620905707b64734a7249fe736eb2e66
+album: Can't Stop the Feeling / This Is What You Came For
+artist(s): Anthem Lights
+**********SPOTIFY SONG INFO END*********
+6
+**********SPOTIFY SONG INFO BEGIN*********
+song name: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+preview song: https://p.scdn.co/mp3-preview/415d306dd57618f4719ea8f25b143037269bb6b3?cid=8620905707b64734a7249fe736eb2e66
+album: Feel Good Friday
+artist(s): Justin Timberlake
+**********SPOTIFY SONG INFO END*********
+7
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop The Feeling - Acoustic
+preview song: https://p.scdn.co/mp3-preview/3843930f3ad90e3231fce3ecf62884ecbdc899f9?cid=8620905707b64734a7249fe736eb2e66
+album: Can't Stop The Feeling (Acoustic)
+artist(s): Tore Bojsten
+**********SPOTIFY SONG INFO END*********
+8
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop The Feeling (feat. Angie Keilhauer)
+preview song: https://p.scdn.co/mp3-preview/07f8704885c7bbced143d8e935fc73d086f123bf?cid=8620905707b64734a7249fe736eb2e66
+album: Can't Stop The Feeling (feat. Angie Keilhauer)
+artist(s): Saxity
+**********SPOTIFY SONG INFO END*********
+9
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling / This Is What You Came For
+preview song: https://p.scdn.co/mp3-preview/4bc4cc83f2a83c241626f6a2eca191fb2050c41f?cid=8620905707b64734a7249fe736eb2e66
+album: We Got You Covered, Vol. 1
+artist(s): Anthem Lights
+**********SPOTIFY SONG INFO END*********
+10
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop The Feeling
+preview song: https://p.scdn.co/mp3-preview/a3c87078a8ed75aecb7337a57e8593f4b50f0ae2?cid=8620905707b64734a7249fe736eb2e66
+album: Goes Acoustic, Vol. 2
+artist(s): Fly By Nightcore
+**********SPOTIFY SONG INFO END*********
+11
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling
+preview song: https://p.scdn.co/mp3-preview/f3636f4c14fcdbb61b89350c3fcea5b298030e2b?cid=8620905707b64734a7249fe736eb2e66
+album: Can't Stop the Feeling
+artist(s): Fame on Fire
+**********SPOTIFY SONG INFO END*********
+12
+**********SPOTIFY SONG INFO BEGIN*********
+song name: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+preview song: https://p.scdn.co/mp3-preview/70e5110a94b88078e46d4924d68b683d7cdfd37b?cid=8620905707b64734a7249fe736eb2e66
+album: NOW That's What I Call Music, Vol. 59
+artist(s): Justin Timberlake
+**********SPOTIFY SONG INFO END*********
+13
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling!
+preview song: https://p.scdn.co/mp3-preview/7e06de8292ea827a042ac330ef602f67f06f7b3e?cid=8620905707b64734a7249fe736eb2e66
+album: VSQ Performs the Hits of 2016, Vol. 2
+artist(s): Vitamin String Quartet
+**********SPOTIFY SONG INFO END*********
+14
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling - Piano Version
+preview song: https://p.scdn.co/mp3-preview/225ba03fe796a360bd770eb736704f2f744e3db2?cid=8620905707b64734a7249fe736eb2e66
+album: Can't Stop the Feeling (Piano Version)
+artist(s): John Sostenuto
+**********SPOTIFY SONG INFO END*********
+15
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling!
+preview song: https://p.scdn.co/mp3-preview/cf629f2e2ed5f612cd62df44f712cf74f554b704?cid=8620905707b64734a7249fe736eb2e66
+album: Can't Stop the Feeling!
+artist(s): Home Free
+**********SPOTIFY SONG INFO END*********
+16
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop The Feeling!
+preview song: null
+album: Lullapop Lullabies
+artist(s): Lullapop Lullabies
+**********SPOTIFY SONG INFO END*********
+17
+**********SPOTIFY SONG INFO BEGIN*********
+song name: “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
+preview song: https://p.scdn.co/mp3-preview/d5ac6f228969f2ee899332ebf4c6a0e0f3fab511?cid=8620905707b64734a7249fe736eb2e66
+album: “Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k”
+artist(s): Anthem Lights
+**********SPOTIFY SONG INFO END*********
+18
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Best of 2016 Medley: Stressed Out / 7 Years / Work / Treat You Better / Can't Stop the Feeling / Closer / 24k
+preview song: https://p.scdn.co/mp3-preview/d5ac6f228969f2ee899332ebf4c6a0e0f3fab511?cid=8620905707b64734a7249fe736eb2e66
+album: We Got You Covered, Vol. 2
+artist(s): Anthem Lights
+**********SPOTIFY SONG INFO END*********
+19
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Can't Stop the Feeling
+preview song: https://p.scdn.co/mp3-preview/50f5c5d57d0b3ce9eb2d70791a42fa33e6c7d0db?cid=8620905707b64734a7249fe736eb2e66
+album: Can't Stop the Feeling
+artist(s): Joseph Vincent
+**********SPOTIFY SONG INFO END*********
+
+=======================================================================================================
+=======================================================================================================
+=======================================================================================================
+0
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=8620905707b64734a7249fe736eb2e66
+album: Harry Styles
+artist(s): Harry Styles
+**********SPOTIFY SONG INFO END*********
+1
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=8620905707b64734a7249fe736eb2e66
+album: World War Joy...Do You Mean
+artist(s): The Chainsmokers
+**********SPOTIFY SONG INFO END*********
+2
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+**********SPOTIFY SONG INFO END*********
+3
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=8620905707b64734a7249fe736eb2e66
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+4
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+**********SPOTIFY SONG INFO END*********
+5
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8620905707b64734a7249fe736eb2e66
+album: Sign of the Times
+artist(s): Harry Styles
+**********SPOTIFY SONG INFO END*********
+6
+**********SPOTIFY SONG INFO BEGIN*********
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+**********SPOTIFY SONG INFO END*********
+7
+**********SPOTIFY SONG INFO BEGIN*********
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8620905707b64734a7249fe736eb2e66
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+**********SPOTIFY SONG INFO END*********
+8
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=8620905707b64734a7249fe736eb2e66
+album: The Divine Feminine
+artist(s): Mac Miller
+**********SPOTIFY SONG INFO END*********
+9
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+**********SPOTIFY SONG INFO END*********
+10
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+**********SPOTIFY SONG INFO END*********
+11
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=8620905707b64734a7249fe736eb2e66
+album: Beach House 3
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+12
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=8620905707b64734a7249fe736eb2e66
+album: Beach House 3
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+13
+**********SPOTIFY SONG INFO BEGIN*********
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+**********SPOTIFY SONG INFO END*********
+14
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=8620905707b64734a7249fe736eb2e66
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+**********SPOTIFY SONG INFO END*********
+15
+**********SPOTIFY SONG INFO BEGIN*********
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8620905707b64734a7249fe736eb2e66
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+**********SPOTIFY SONG INFO END*********
+16
+**********SPOTIFY SONG INFO BEGIN*********
+song name: When I Lie (Remix) (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/9dc089c14e85ea2a62c5ae7177f2582d7abb2c96?cid=8620905707b64734a7249fe736eb2e66
+album: For The Throne (Music Inspired by the HBO Series Game of Thrones)
+artist(s): Lil Peep
+**********SPOTIFY SONG INFO END*********
+17
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=8620905707b64734a7249fe736eb2e66
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+**********SPOTIFY SONG INFO END*********
+18
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=8620905707b64734a7249fe736eb2e66
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+**********SPOTIFY SONG INFO END*********
+19
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Bacc To Winning (feat. Ty Dolla $ign) [Produced by Cardo and DJ.Fresh]
+preview song: https://p.scdn.co/mp3-preview/e6d6f93bc37a2cb73027343884d87142c05b3d10?cid=8620905707b64734a7249fe736eb2e66
+album: Fly Times Vol. 1: The Good Fly Young
+artist(s): Wiz Khalifa
+**********SPOTIFY SONG INFO END*********

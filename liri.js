@@ -50,9 +50,12 @@ function getSpotify(songName) {
         songName = "The Sign";//default Song
     };
    
-    spotify.search({ type: 'track', query: songName }, function (err, data) {
+    spotify.search({ type: 'track', query: songName }, 
+
+        function (err, data) {
         if (err) {
-            return console.log('Error occurred: ' + err);
+            console.log("Error occurred: " + err);
+            return;
         }
 
         //console.log("Data for searched song: " + data.tracks.items[0]);
@@ -79,6 +82,7 @@ function getSpotify(songName) {
             fs.appendFileSync("log.txt", "**********SPOTIFY SONG INFO END*********\n");
          }
     });
+    
 };
 
 //Function to search Concert Info using Bands In Town API
@@ -121,10 +125,10 @@ function getBandsInTown(artist) {
 
             }
             }
-            else{
-                console.log('Error occurred.');
-                console.log("response status is "+response.status);
-            }
+            // else{
+            //     console.log('Error occurred.');
+            //     console.log("response status is "+response.status);
+            // }
                 
             }).catch(function(error) {
                 if (error.response) {
@@ -211,10 +215,10 @@ function getOMDB(movie) {
                     fs.appendFileSync("log.txt", "**********OMDB MOVIE INFO END*********\n");
 
                 }
-                else{
-                    console.log('Error occurred.');
-                    console.log("response status is "+response.status);
-                }
+                // else{
+                //     console.log('Error occurred.');
+                //     console.log("response status is "+response.status);
+                // }
                 
             }).catch(function(error) {
                 if (error.response) {
