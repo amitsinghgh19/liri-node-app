@@ -52,7 +52,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     Output1: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shots below:
     ![Results](/screenshots/movie_this_results.PNG)
     
-    Output2: If movie search is variable is left empty then the system will display information associated with the movie = "Mr. Nobody"//Default movie, from liri.js getOMDB(movie) function;. The system will also log all the results in the log.txt file. 
+    Output2: If movie search variable is left empty then the system will display information associated with the movie = "Mr. Nobody"//Default movie, from liri.js getOMDB(movie) function;. The system will also log all the results in the log.txt file. 
     See screen-shot below:
     ![Results](/screenshots/movie_this_user_search_null_results.PNG)
 
