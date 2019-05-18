@@ -65,9 +65,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     See screen-shots below:
 
-    ![Results](/screenshots/do_what_is-says_results_spotify_this_song.png)
+    ![Results](/screenshots/do_what_it_says_results_spotify_this_song.png)
     
-    ![Results](/screenshots/do_what_is-says_results_movie_this.png)
+    ![Results](/screenshots/do_what_it_says_results_movie_this.png)
 
 - - -
 
