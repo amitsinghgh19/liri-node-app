@@ -40,7 +40,6 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     Output1: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. 
     See screen-shot below:
     ![Results](/screenshots/spotify_this_results.PNG)
-    See screen-shot below:
    
     Output2: If user search is null then it will pick up songName = "The Sign";//default Song from  liri.js getSpotify function
     See screen-shot below:
