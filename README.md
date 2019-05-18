@@ -32,6 +32,7 @@ The  `Commands` are:
         node liri.js concert-this <name of artist or band>
     
     Output-1: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. 
+    
     See screen-shot below:
     ![Results](/screenshots/concert_this_results.PNG)
 
@@ -40,10 +41,12 @@ The  `Commands` are:
         node liri.js spotify-this-song <name of song>
     
     Output-1: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. 
+    
     See screen-shot below:
     ![Results](/screenshots/spotify_this_results.PNG)
    
     Output-2: If user search is null then it will pick up songName = "The Sign";//default Song from  liri.js getSpotify function
+    
     See screen-shot below:
     ![Results](/screenshots/spotify_this_user_serach_null_results.png)
 
@@ -51,10 +54,13 @@ The  `Commands` are:
     
         node liri.js movie-this <name of movie>
     
-    Output-1: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shots below:
+    Output-1: The system will display information associated with the movie. The system will also log all the results in the log.txt file. 
+    
+    See screen-shots below:
     ![Results](/screenshots/movie_this_results.PNG)
     
     Output-2: If movie search variable is left empty then the system will display information associated with the movie = "Mr. Nobody"//Default movie, from liri.js getOMDB(movie) function;. The system will also log all the results in the log.txt file. 
+    
     See screen-shot below:
     ![Results](/screenshots/movie_this_user_search_null_results.PNG)
 
@@ -64,16 +70,19 @@ The  `Commands` are:
         node liri.js do-what-it-says
         
     Output-1: (if random.txt has spotify-this-song,"I Want it That Way") The system will read the text in the random.txt file, and perform the comman listed in the random.txt file. 
+   
     See screen-shot below:
     ![Results](/screenshots/do_what_it_says_results_spotify_this_song.png)
     
     Output-2: (if random.txt has this-movie,"Titanic") The system will read the text in the random.txt file, and perform the comman listed in the random.txt file. 
+    
     See screen-shot below:
     ![Results](/screenshots/do_what_it_says_results_movie_this.png)
 
     **Example 5**: Run the `WRONG/INVALID` command
     
     Output-1: If user command is invalid then it will console.log("Invalid Option. Please enter one of the following commands: 'concert-this', 'spotify-this-song', 'movie-this', 'do-what-it-says' in order to continue");
+    
     See screen-shot below:
     ![Results](/screenshots/user_invalid_serach_results.png)
 
