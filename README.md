@@ -41,9 +41,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
     ![Results](/screenshots/spotify_this_results.PNG)
 
-    ![Results](/screenshots/spotify_this_user_serach_null_results.PNG)
+    ![Results](/screenshots/spotify_this_user_serach_null_results.png)
 
-    ![Results](/screenshots/spotify_this_user_serach_invalid_results.PNG)
+    ![Results](/screenshots/spotify_this_user_serach_invalid_results.png)
    
 
     **Example 3**: Run the `movie-this` command
@@ -54,7 +54,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
     ![Results](/screenshots/movie_this_results.PNG)
 
-    ![Results](/screenshots/movie_this_user_search_null_results.PNG)
+    ![Results](/screenshots/movie_this_user_search_null_results.png)
 
 
     **Example 4**: Run the `do-what-it-says` command
@@ -65,9 +65,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     See screen-shots below:
 
-    ![Results](/screenshots/do_what_is-says_results_spotify_this_song.PNG)
+    ![Results](/screenshots/do_what_is-says_results_spotify_this_song.png)
     
-    ![Results](/screenshots/do_what_is-says_results_movie_this.PNG)
+    ![Results](/screenshots/do_what_is-says_results_movie_this.png)
 
 - - -
 
