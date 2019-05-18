@@ -1664,3 +1664,468 @@ preview song: https://p.scdn.co/mp3-preview/e6d6f93bc37a2cb73027343884d87142c05b
 album: Fly Times Vol. 1: The Good Fly Young
 artist(s): Wiz Khalifa
 **********SPOTIFY SONG INFO END*********
+=======================================================================================================
+0
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=8620905707b64734a7249fe736eb2e66
+album: Harry Styles
+artist(s): Harry Styles
+**********SPOTIFY SONG INFO END*********
+1
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=8620905707b64734a7249fe736eb2e66
+album: World War Joy...Do You Mean
+artist(s): The Chainsmokers
+**********SPOTIFY SONG INFO END*********
+2
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+**********SPOTIFY SONG INFO END*********
+3
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=8620905707b64734a7249fe736eb2e66
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+4
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+**********SPOTIFY SONG INFO END*********
+5
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8620905707b64734a7249fe736eb2e66
+album: Sign of the Times
+artist(s): Harry Styles
+**********SPOTIFY SONG INFO END*********
+6
+**********SPOTIFY SONG INFO BEGIN*********
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+**********SPOTIFY SONG INFO END*********
+7
+**********SPOTIFY SONG INFO BEGIN*********
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8620905707b64734a7249fe736eb2e66
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+**********SPOTIFY SONG INFO END*********
+8
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=8620905707b64734a7249fe736eb2e66
+album: The Divine Feminine
+artist(s): Mac Miller
+**********SPOTIFY SONG INFO END*********
+9
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+**********SPOTIFY SONG INFO END*********
+10
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+**********SPOTIFY SONG INFO END*********
+11
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=8620905707b64734a7249fe736eb2e66
+album: Beach House 3
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+12
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=8620905707b64734a7249fe736eb2e66
+album: Beach House 3
+artist(s): Ty Dolla $ign
+**********SPOTIFY SONG INFO END*********
+13
+**********SPOTIFY SONG INFO BEGIN*********
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+**********SPOTIFY SONG INFO END*********
+14
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=8620905707b64734a7249fe736eb2e66
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+**********SPOTIFY SONG INFO END*********
+15
+**********SPOTIFY SONG INFO BEGIN*********
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8620905707b64734a7249fe736eb2e66
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+**********SPOTIFY SONG INFO END*********
+16
+**********SPOTIFY SONG INFO BEGIN*********
+song name: When I Lie (Remix) (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/9dc089c14e85ea2a62c5ae7177f2582d7abb2c96?cid=8620905707b64734a7249fe736eb2e66
+album: For The Throne (Music Inspired by the HBO Series Game of Thrones)
+artist(s): Lil Peep
+**********SPOTIFY SONG INFO END*********
+17
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=8620905707b64734a7249fe736eb2e66
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+**********SPOTIFY SONG INFO END*********
+18
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=8620905707b64734a7249fe736eb2e66
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+**********SPOTIFY SONG INFO END*********
+19
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Bacc To Winning (feat. Ty Dolla $ign) [Produced by Cardo and DJ.Fresh]
+preview song: https://p.scdn.co/mp3-preview/e6d6f93bc37a2cb73027343884d87142c05b3d10?cid=8620905707b64734a7249fe736eb2e66
+album: Fly Times Vol. 1: The Good Fly Young
+artist(s): Wiz Khalifa
+**********SPOTIFY SONG INFO END*********
+=======================================================================================================
+0
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho Bandhu (From "Cocktail")
+preview song: https://p.scdn.co/mp3-preview/19b13d9981089cc6ea7ad28ddcc0a672d0498211?cid=8620905707b64734a7249fe736eb2e66
+album: Cocktail
+artist(s): Neeraj Shridhar
+**********SPOTIFY SONG INFO END*********
+1
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Aashiqui 2
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+2
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2)
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Love Dose Arijit Singh
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+3
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2")
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Loveholic Arijit Singh
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+4
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho-Rehnuma (From "T-Series Mixtape Season 2")
+preview song: https://p.scdn.co/mp3-preview/03b6e722d23ebf823ea2430c014320b50483d82f?cid=8620905707b64734a7249fe736eb2e66
+album: Tum Hi Ho-Rehnuma (From "T-Series Mixtape Season 2")
+artist(s): Shreya Ghoshal
+**********SPOTIFY SONG INFO END*********
+5
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (Remix By Dj Shadow,Dj Javed)
+preview song: https://p.scdn.co/mp3-preview/299cadec650d4ef14a2d93affd883a7635df3018?cid=8620905707b64734a7249fe736eb2e66
+album: Aashiqui 2
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+6
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2")
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Arijit Singh: Love Songs
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+7
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho Instruments - 2014
+preview song: https://p.scdn.co/mp3-preview/ef56a514d03623fe20cecc94e1184e2cc3bc1be6?cid=8620905707b64734a7249fe736eb2e66
+album: Tum Hi Ho Instruments (2014)
+artist(s): DjSunnymega
+**********SPOTIFY SONG INFO END*********
+8
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2")
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Arijit Romantic Hits
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+9
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2")
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Best Of Shraddha Kapoor
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+10
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho Bandhu (From "Cocktail")
+preview song: https://p.scdn.co/mp3-preview/19b13d9981089cc6ea7ad28ddcc0a672d0498211?cid=8620905707b64734a7249fe736eb2e66
+album: Deepika Padukone - Blockbuster Hits
+artist(s): Neeraj Shridhar
+**********SPOTIFY SONG INFO END*********
+11
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho
+preview song: https://p.scdn.co/mp3-preview/bee1f049ca0e0089b2f615a553e197a618ca61e5?cid=8620905707b64734a7249fe736eb2e66
+album: Tembang Tresno
+artist(s): Dangdut Koplo
+**********SPOTIFY SONG INFO END*********
+12
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho Bandhu (From "Cocktail")
+preview song: https://p.scdn.co/mp3-preview/19b13d9981089cc6ea7ad28ddcc0a672d0498211?cid=8620905707b64734a7249fe736eb2e66
+album: Ravishing Deepika
+artist(s): Neeraj Shridhar
+**********SPOTIFY SONG INFO END*********
+13
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2")
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Best Of Arijit Singh - Revisited
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+14
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho
+preview song: https://p.scdn.co/mp3-preview/482d99c8d3c7a9f67f1fe1f0459fac0b7b672431?cid=8620905707b64734a7249fe736eb2e66
+album: Via Vallen
+artist(s): Via Vallen
+**********SPOTIFY SONG INFO END*********
+15
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2")
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Best Of Arijit Singh
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+16
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (Instrumental)
+preview song: https://p.scdn.co/mp3-preview/2d29f3dfc73f09a35ee6f56628e6bf92f5904fc2?cid=8620905707b64734a7249fe736eb2e66
+album: Bollywood Unplugged
+artist(s): Mithoon
+**********SPOTIFY SONG INFO END*********
+17
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Khawaja Tum Hi Ho
+preview song: https://p.scdn.co/mp3-preview/25e67be5708a6186e110572ab6ad6738a27f4f8c?cid=8620905707b64734a7249fe736eb2e66
+album: Dust to Gold
+artist(s): Nusrat Fateh Ali Khan
+**********SPOTIFY SONG INFO END*********
+18
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho Mata Pita Tumhi Ho
+preview song: https://p.scdn.co/mp3-preview/031e5486a17a468cf2daeba4d1e20519bb7e6d47?cid=8620905707b64734a7249fe736eb2e66
+album: Main Chup Rahungi (Original Motion Picture Soundtrack)
+artist(s): Lata Mangeshkar
+**********SPOTIFY SONG INFO END*********
+19
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Tum Hi Ho (From "Aashiqui 2")
+preview song: https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=8620905707b64734a7249fe736eb2e66
+album: Ultimate Bollywood Love Songs
+artist(s): Arijit Singh
+**********SPOTIFY SONG INFO END*********
+=======================================================================================================
+0
+**********BANDS IN TOWN EVENT INFO BEGIN*********
+Name of the venue: XS Nightclub
+Venue Location: Las Vegas
+Date of the Event: 05-18-2019
+Event URL: https://www.bandsintown.com/e/1013958798?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+**********BANDS IN TOWN EVENT INFO END*********
+1
+**********BANDS IN TOWN EVENT INFO BEGIN*********
+Name of the venue: City of Rock
+Venue Location: Rio De Janeiro
+Date of the Event: 09-27-2019
+Event URL: https://www.bandsintown.com/e/1013679440?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+**********BANDS IN TOWN EVENT INFO END*********
+=======================================================================================================
+0
+**********BANDS IN TOWN EVENT INFO BEGIN*********
+=======================================================================================================
+**********OMDB MOVIE INFO BEGIN*********
+Movie Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+=======================================================================================================
+**********OMDB MOVIE INFO BEGIN*********
+Movie Title: Jai Ho
+Release Year: 2014
+IMDB Rating: 5.3
+Rotten Tomatoes Rating: 20%
+Country of Production: India
+Language: Hindi, Indian Sign Language
+Plot: An ex-army officer initiates a unique idea of propagating social responsibility among ordinary people and in doing so, crosses paths with a powerful political family.
+Actors: Salman Khan, Daisy Shah, Tabu, Danny Denzongpa
+Awards: 5 nominations.
+Poster URL: https://m.media-amazon.com/images/M/MV5BNWMyNWExMTctYjc0NS00MTllLThkMDItOWQwOGNjODczNzI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg
+**********OMDB MOVIE INFO END*********
+=======================================================================================================
+0
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8620905707b64734a7249fe736eb2e66
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+**********SPOTIFY SONG INFO END*********
+1
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=8620905707b64734a7249fe736eb2e66
+album: Millennium
+artist(s): Backstreet Boys
+**********SPOTIFY SONG INFO END*********
+2
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=8620905707b64734a7249fe736eb2e66
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+**********SPOTIFY SONG INFO END*********
+3
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=8620905707b64734a7249fe736eb2e66
+album: Covers Part IV
+artist(s): Anthem Lights
+**********SPOTIFY SONG INFO END*********
+4
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=8620905707b64734a7249fe736eb2e66
+album: I Want It That Way
+artist(s): Mick Jensen
+**********SPOTIFY SONG INFO END*********
+5
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=8620905707b64734a7249fe736eb2e66
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+**********SPOTIFY SONG INFO END*********
+6
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=8620905707b64734a7249fe736eb2e66
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+**********SPOTIFY SONG INFO END*********
+7
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=8620905707b64734a7249fe736eb2e66
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+**********SPOTIFY SONG INFO END*********
+8
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=8620905707b64734a7249fe736eb2e66
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+**********SPOTIFY SONG INFO END*********
+9
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=8620905707b64734a7249fe736eb2e66
+album: NKOTBSB
+artist(s): Backstreet Boys
+**********SPOTIFY SONG INFO END*********
+10
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+**********SPOTIFY SONG INFO END*********
+11
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=8620905707b64734a7249fe736eb2e66
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+**********SPOTIFY SONG INFO END*********
+12
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=8620905707b64734a7249fe736eb2e66
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+**********SPOTIFY SONG INFO END*********
+13
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=8620905707b64734a7249fe736eb2e66
+album: I Want It That Way
+artist(s): Manuel Costa
+**********SPOTIFY SONG INFO END*********
+14
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=8620905707b64734a7249fe736eb2e66
+album: Nu Funk
+artist(s): Scary Pockets
+**********SPOTIFY SONG INFO END*********
+15
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+**********SPOTIFY SONG INFO END*********
+16
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=8620905707b64734a7249fe736eb2e66
+album: I Want It That Way
+artist(s): Yshop
+**********SPOTIFY SONG INFO END*********
+17
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=8620905707b64734a7249fe736eb2e66
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+**********SPOTIFY SONG INFO END*********
+18
+**********SPOTIFY SONG INFO BEGIN*********
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=8620905707b64734a7249fe736eb2e66
+album: Timeless Love
+artist(s): Love Hits On Piano
+**********SPOTIFY SONG INFO END*********
+19
+**********SPOTIFY SONG INFO BEGIN*********
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=8620905707b64734a7249fe736eb2e66
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+**********SPOTIFY SONG INFO END*********
+=======================================================================================================
+0
+**********BANDS IN TOWN EVENT INFO BEGIN*********
+=======================================================================================================
+=======================================================================================================
+=======================================================================================================
