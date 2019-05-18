@@ -54,7 +54,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
     ![Results](/screenshots/movie_this_results.PNG)
 
-    ![Results](/screenshots/spotify_this_user_serach_null_results.PNG)
+    ![Results](/screenshots/movie_this_user_search_null_results.PNG)
 
 
     **Example 4**: Run the `do-what-it-says` command
