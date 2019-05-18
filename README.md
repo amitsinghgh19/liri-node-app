@@ -32,7 +32,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
     ![Results](/screenshots/concert_this_results.png)
-
+- - -
     **Example 2**: Run the `spotify-this-song` command
     
         node liri.js spotify-this-song <name of song>
@@ -40,7 +40,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shots below:
 
     ![Results](/screenshots/spotify_this_results.png)
+- - -
     ![Results](/screenshots/spotify_this_user_serach_null_results.png)
+- - -
     ![Results](/screenshots/spotify_this_user_serach_invalid_results.png)
    
 
@@ -51,6 +53,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shots below:
 
     ![Results](/screenshots/movie_this_results.png)
+- - -
     ![Results](/screenshots/movie_this_user_search_null_results.png)
 
 
@@ -63,6 +66,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     See screen-shots below:
 
     ![Results](/screenshots/do_what_is-says_results_spotify-this-song.png)
+- - -
     ![Results](/screenshots/do_what_is-says_results_movie-this.png)
 
 - - -
