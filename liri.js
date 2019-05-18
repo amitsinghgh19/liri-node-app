@@ -91,8 +91,8 @@ function getBandsInTown(artist) {
             // adding a line break for clarity of when search results begin
             console.log("=======================================================================================================");
             fs.appendFileSync("log.txt", "=======================================================================================================\n");
-            console.log("response is");
-            console.log(response);
+            //console.log("response is");
+            //console.log(response);
 
             if(!error && response.status === 200){
                 console.log("response status is "+response.status);
@@ -150,8 +150,8 @@ function getOMDB(movie) {
                 // adding a line break for clarity of when search results begin
                 console.log("=======================================================================================================");
                 fs.appendFileSync("log.txt", "=======================================================================================================\n");
-                console.log("response is");
-                console.log(response);
+                //console.log("response is");
+                //console.log(response);
                 if(!error && response.status === 200){
                     console.log("response status is "+response.status);
 
@@ -200,7 +200,30 @@ function getOMDB(movie) {
             });
         };
 
+// Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+// function for reading out of random.txt file  
+function getRandom() {
+            fs.readFile("random.txt", "utf8", function (error, data) {
+                if (error) {
+                    return console.log(error);
 
+                } else {
+                    console.log(data);
+
+                    var randomData = data.split(",");
+                    liriRun(randomData[0], randomData[1]);
+                }
+                //console.log("\r\n" + "testing: " + randomData[0] + randomData[1]);
+
+            });
+        };
+
+    // FUNCTION to log results from the other funtions
+    function logResults(data) {
+        fs.appendFile("log.txt", data, function (err) {
+            if (err) throw err;
+        });
+    };
 
 
 //Execute function
