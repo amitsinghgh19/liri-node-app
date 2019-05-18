@@ -69,8 +69,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     See screen-shot below:
     ![Results](/screenshots/do_what_it_says_results_movie_this.png)
 
-    **Example 5**: WRONG command
-     Output-1: If user command is invalid then it will console.log("Invalid Option. Please enter one of the following commands: 'concert-this', 'spotify-this-song', 'movie-this', 'do-what-it-says' in order to continue");
+    **Example 5**: Run the `WRONG/INVALID` command
+    
+    Output-1: If user command is invalid then it will console.log("Invalid Option. Please enter one of the following commands: 'concert-this', 'spotify-this-song', 'movie-this', 'do-what-it-says' in order to continue");
     See screen-shot below:
     ![Results](/screenshots/user_invalid_serach_results.png)
 
