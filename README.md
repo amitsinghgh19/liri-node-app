@@ -85,4 +85,3 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     * OMDB
 * Git
 * GitHub
-* Heroku
