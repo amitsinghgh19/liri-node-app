@@ -192,10 +192,10 @@ function getOMDB(movie) {
                     fs.appendFileSync("log.txt", "**********OMDB MOVIE INFO END*********\n");
 
                 }
-            else{
-                console.log('Error occurred.');
-                console.log("response status is "+response.status);
-            }
+                else{
+                    console.log('Error occurred.');
+                    console.log("response status is "+response.status);
+                }
                 
             });
         };
@@ -217,14 +217,6 @@ function getRandom() {
 
             });
         };
-
-    // FUNCTION to log results from the other funtions
-    function logResults(data) {
-        fs.appendFile("log.txt", data, function (err) {
-            if (err) throw err;
-        });
-    };
-
 
 //Execute function
 liriRun(appCommand, userSearch);
